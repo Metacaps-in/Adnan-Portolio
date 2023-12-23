@@ -225,10 +225,10 @@ a.hire{
     margin:10px;
 }
 .education-content ul{
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 700;
-    padding-left: 20px;
-    line-height: 25px;
+    padding-left: 30px;
+    line-height: 55px;
     list-style: circle;
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
@@ -357,6 +357,7 @@ form{
 .last-line{
     margin-top: 50px;
     color: #ef402f;
+    font-size: 30px;
 }
 .ad{
     color: white;
@@ -374,7 +375,7 @@ form{
         background-color: rgba(211, 211, 211, 0.314);
     }
     to{
-        background-color: rgba(211, 211, 211, 0.5);
+        background-color: rgba(55, 48, 48, 0.5);
         color: black;
     }
 }
