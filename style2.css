@@ -18,7 +18,7 @@ body{
     /* border: 2px solid black; */
     /* margin: 2% 5%; */
     /* margin: 20px ; */
-    background-color: rgba(211, 211, 211, 0.314);
+    background-color: rgba(211, 211, 211,0.9);
     
     position: fixed;
     z-index: 999;
@@ -166,8 +166,8 @@ a.hire{
     margin-top: 0px;
     margin-left: 140px;
     padding: 30px;
-    line-height: 30px;
-    font-weight: bold;
+    /* line-height: 30px; */
+    font-weight: 600;
     /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  */
 }
 .about-content{
@@ -364,18 +364,4 @@ form{
 }
 .social-media-link a:hover{
     color: white;
-}
-
-
-
-
-/* ###############animation############3 */
-@keyframes change-bg-color{
-    from{
-        background-color: rgba(211, 211, 211, 0.314);
-    }
-    to{
-        background-color: rgba(55, 48, 48, 0.5);
-        color: black;
-    }
 }
